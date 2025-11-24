@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926201678699",
+    "project_id": "offroad-sim-2020-mud-truck-258",
+    "storage_bucket": "offroad-sim-2020-mud-truck-258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926201678699:android:706a954e30e22940ef5a2e",
+        "android_client_info": {
+          "package_name": "fgs.com.simulation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926201678699-b6j87sgn3mnphngrtevk8l3g35qvp10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASn_8XJ-3LdadlJMSQiarwv1Mrq1iSe4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926201678699-b6j87sgn3mnphngrtevk8l3g35qvp10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
